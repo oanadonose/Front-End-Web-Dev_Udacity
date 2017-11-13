@@ -1,1 +1,32 @@
-/* add your CSS here */
+.title{
+	font-weight:bold;
+}
+.fact{
+	font-style:italic;
+}
+.label{
+	font-weight:bold;
+
+}
+.picture{
+	padding-bottom:12px;
+}
+.list{
+	padding-left:1em;
+	list-style:none;
+}
+.infocard{
+	width:285px;
+	border: solid 1px #CCC;
+	padding-left: 7px;
+	padding-right: 7px;
+}
+div.card{
+	background-color:#43B5BB91;
+	width:300px;
+	padding-left:7px;
+	padding-right:7px;
+	padding-top:7px;
+	padding-bottom:7px;
+	border: 1px solid #CCC;
+}
